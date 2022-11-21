@@ -1,3 +1,3 @@
-3D Artist
+3D Modeler / Maya (I don't know how to code) (Yet)
 
-Linux User
+Linux FTW
